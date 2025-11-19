@@ -5,7 +5,7 @@ Meet **Text Summarizer**, your mini AI assistant that turns TL;DR nightmares int
 
 A Chrome Extension powered by a **Flask backend + AI summarizer model** — it lives in your browser, ready to summarize whatever you highlight!
 
----
+---   
 
 ## 🚀 Features
 
