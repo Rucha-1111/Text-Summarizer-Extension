@@ -5,8 +5,7 @@
   "description": "Your personal mini-LLM inside Chrome. Select text → get a smart summary in seconds.",
   "permissions": ["activeTab", "storage"],
   "host_permissions": [
-  "http://127.0.0.1:5000/*",
-  "<all_urls>"
+  "http://127.0.0.1:5000/*"
 ],
   "background": {
     "service_worker": "background.js"
