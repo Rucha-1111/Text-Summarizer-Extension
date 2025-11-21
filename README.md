@@ -28,26 +28,27 @@ A Chrome Extension powered by a **Flask backend + AI summarizer model** — it l
 ## 🛠️ Setup Instructions
 
 ### 1️⃣ Clone or Download This Repo
+
 ```bash
 git clone https://github.com/Rucha-1111/Text-Summarizer-Extension.git
 cd Text-Summarizer-Extension
 ```
 
 ### 2️⃣ Install Backend Dependencies
+
 Make sure you have Python 3 installed, then run:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run the Flask Backend
+
 ```bash
 python app.py
 ```
 
-You should see something like:
-```
-Running on http://127.0.0.1:5000
-```
+You should see something like: Running on <http://127.0.0.1:5000>
 
 Keep this terminal window open! It’s your extension’s brain 🧠.
 

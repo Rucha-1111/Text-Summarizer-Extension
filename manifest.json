@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "Smart Text Summarizer",
+  "name": "SummarEase",
   "version": "1.1",
-  "description": "Summarize selected text (50+ words) using your own local AI model.",
-  "permissions": ["activeTab", "scripting", "storage"],
+  "description": "Your personal mini-LLM inside Chrome. Select text → get a smart summary in seconds.",
+  "permissions": ["activeTab", "storage"],
   "host_permissions": [
   "http://127.0.0.1:5000/*",
   "<all_urls>"
